@@ -1,5 +1,3 @@
-//Raymond Dam USCID:3325417660
-
 package calcPackage;
 
 import java.awt.BorderLayout;

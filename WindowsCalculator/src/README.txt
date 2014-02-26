@@ -1,0 +1,6 @@
+Known Issues:
+- Parenthesis
+- Inverse functions, though the buttons are working...
+
+Built on a Mac with one of those high-resolution screens. I tested on a windows VM to mitigate some of the scaling issues,
+hopefully they do not persist on your testing machine...

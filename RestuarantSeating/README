@@ -1,0 +1,5 @@
+To properly navigate your computer's file system with JFileChooser, 
+the program needs to be exported as a runnable jar onto your desktop.
+
+Graphics component response upon click may become sluggish. In my testing, a second click maybe required
+on the rare occasion to change the color. 
